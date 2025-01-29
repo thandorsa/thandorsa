@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey My Name is Thando(X3N)
 
-<!--
-**thandorsa/thandorsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![]() ![]() ![]() ![]() [![GitHub Follow](https://img.shields.io/github/followers/thandorsa?style=social)](https://github.com/thandorsa)
 
-Here are some ideas to get you started:
+# A Little Bit About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About-Me-LIST:START -->
+- 19 year old born in South Africa raised in Zimbabwe
+- Photographer
+- Graphic Designer
+- Part time coder
+<!-- About-Me-LIST:END -->
+
+---
+
+> I also Have my own website. [My Personal Site](https://x3n.xyz)
+
+* Im Still learning to code
+
+
+Email me anytime for any reason:
+<br> thando.gfx@gmail.com
+
+---
+
+![Thandos Github stats](https://github-readme-stats.vercel.app/api?username=thandorsa&show_icons=true&count_private=true&hide=contribs)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thandorsa&layout=compact)
