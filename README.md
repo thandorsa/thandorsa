@@ -5,7 +5,7 @@
 # A Little Bit About Me
 
 <!-- About-Me-LIST:START -->
-- 19 year old born in South Africa raised in Zimbabwe
+- 20 year old 
 - Photographer
 - Graphic Designer
 - Part time coder
