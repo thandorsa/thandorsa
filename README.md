@@ -9,6 +9,7 @@
 - Photographer
 - Graphic Designer
 - Part time coder
+- guitarist
 <!-- About-Me-LIST:END -->
 
 ---
